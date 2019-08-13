@@ -11,8 +11,8 @@ A: Here, I use the merge sort algorithm since it uses O(n) space complexity and 
 
 1. Fork the [repository](https://github.com/celestelayne/merge-sort).
 2. Create a local clone of the fork by copying the clone URL:
-  - [URL](https://github.com/celestelayne/merge-sort.git)
-  - Note: these instructions are for using HTTPS
+    - [URL](https://github.com/celestelayne/merge-sort.git)
+    - Note: these instructions are for using HTTPS
 3. Open Terminal.
 4. Navigate to the directory where you'd like to clone down the repo.
 5. Type `git clone`, and then paste the URL.
